@@ -16,11 +16,11 @@ The **LTE KPIs Importance Analysis Tool** helps to analyze and identify the most
 ## Screenshots
 
 ### Tool Interface:
-![Tool Interface](xxx.png)
+![Tool Interface](https://github.com/Salahbendary/LTE-KPI-Importance-Analysis-Tool/blob/main/Images/LTE_KPIs_FeatureImportance_Interface.png)
 
 
 ### KPIs Analysis Result:
-![Result](xxx.png)
+![Result](https://github.com/Salahbendary/LTE-KPI-Importance-Analysis-Tool/blob/main/Images/LTE_KPIs_FeatureImportance_Result.png)
 
 ---
 
